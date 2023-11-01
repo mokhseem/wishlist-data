@@ -2,6 +2,43 @@
   {
     "link": {
       "primary": {
+        "href": "https://istari.ru/katalog-knig/ranobe/istari-komiks/rezero"
+      },
+      "secondary": {
+        "href": "https://www.ozon.ru/seller/izdatelskiy-dom-istari-komiks-8106/knigi-16500/?miniapp=seller_8106&text=ранобэ+re+zero"
+      },
+      "tertiary": {
+        "href": "https://www.labirint.ru/series/59356"
+      }
+    },
+    "image": {
+      "src": "data/images/rezero.webp",
+      "alt": "1-й том ранобэ Re:Zero"
+    },
+    "title": "Re:Zero. Жизнь с нуля в альтернативном мире, Т. 1—12",
+    "description": "Книга (ранобэ)",
+    "price": 800
+  },
+  {
+    "link": {
+      "primary": {
+        "href": "https://vk.com/wall-114326017_1964"
+      },
+      "secondary": {
+        "href": "https://sierpienrecords.bandcamp.com/album/505-2"
+      }
+    },
+    "image": {
+      "src": "data/images/mc-ephoresis.webp",
+      "alt": "Кассета группы «Электрофорез»"
+    },
+    "title": "505 (SRPN160MC)",
+    "description": "Аудиокассета",
+    "price": 1400
+  },
+  {
+    "link": {
+      "primary": {
         "href": "https://aliexpress.ru/item/1005005785846814.html"
       }
     },
