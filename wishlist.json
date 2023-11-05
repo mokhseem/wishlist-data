@@ -2,6 +2,24 @@
   {
     "link": {
       "primary": {
+        "href": "https://ozon.ru/t/nBpGbPA"
+      },
+      "secondary": {
+        "href": "https://t.me/tvoekofevino/281"
+      }
+    },
+    "image": {
+      "src": "data/images/stojo.webp",
+      "alt": "Складной стакан Stojo"
+    },
+    "title": "Stojo Jr. Cup",
+    "desciption": "Складной стакан",
+    "details": "250 мл (8 oz), детский, цвет Sage (или Steel)",
+    "price": 1200
+  },
+  {
+    "link": {
+      "primary": {
         "href": "https://istari.ru/katalog-knig/ranobe/istari-komiks/rezero"
       },
       "secondary": {
@@ -22,9 +40,12 @@
   {
     "link": {
       "primary": {
-        "href": "https://vk.com/wall-114326017_1964"
+        "href": "https://vk.com/market-114326017?w=product-114326017_5200713%2Fquery"
       },
       "secondary": {
+        "href": "https://vk.com/wall-114326017_1964"
+      },
+      "tertiary": {
         "href": "https://sierpienrecords.bandcamp.com/album/505-2"
       }
     },
@@ -32,9 +53,10 @@
       "src": "data/images/mc-ephoresis.webp",
       "alt": "Кассета группы «Электрофорез»"
     },
-    "title": "505 (SRPN160MC)",
+    "title": "505",
     "description": "Аудиокассета",
-    "price": 1400
+    "details": "Кат. № SRPN160MC, издательство Sierpien Records, 2020-й год, тираж 75 копий",
+    "price": 700
   },
   {
     "link": {
@@ -44,7 +66,7 @@
     },
     "image": {
       "src": "data/images/orangepi.webp",
-      "alt": "Микрокомпьютер Orange Pi на ладони"
+      "alt": "Микрокомпьютер Orange Pi"
     },
     "title": "Orange Pi Zero 3",
     "description": "Одноплатный компьютер",
@@ -77,8 +99,9 @@
       "src": "data/images/mc-egor.webp",
       "alt": "Кассета группы «Егор и Опизденевшие»"
     },
-    "title": "Прыг-скок (hmc-023)",
+    "title": "Прыг-скок",
     "description": "Аудиокассета (б/у)",
+    "details": "Кат. № Hmc-023, издательство «ХОР», 2000-й год",
     "price": 1000
   },
   {
@@ -172,23 +195,6 @@
   {
     "link": {
       "primary": {
-        "href": "https://www.ozon.ru/seller/xl-media-46708/proza-35410/?from_global=true&miniapp=seller_46708&text=нисио+исин"
-      },
-      "secondary": {
-        "href": "https://xlm.ru/ranobe/seriya-monogatari-series"
-      }
-    },
-    "image": {
-      "src": "data/images/monogatari.webp",
-      "alt": "Книги из цикла «Моногатари»"
-    },
-    "title": "Истории о ранах/монстрах, Т. 1—2",
-    "description": "Книга (ранобэ)",
-    "price": 800
-  },
-  {
-    "link": {
-      "primary": {
         "href": "https://www.ozon.ru/seller/xl-media-46708/products/?from_global=true&miniapp=seller_46708&text=нелюдь"
       },
       "secondary": {
@@ -235,6 +241,7 @@
     },
     "title": "KbEar KS2",
     "description": "Наушники",
+    "details": "Разноцветные (пурпурно-голубые), без микрофона",
     "price": 1900
   },
   {
@@ -248,8 +255,7 @@
     },
     "image": {
       "src": "data/images/tabineko.webp",
-      "alt": "Книга Хиро Арикавы",
-      "crop": "square"
+      "alt": "Книга Хиро Арикавы"
     },
     "title": "Хроники странствующего кота",
     "description": "Книга (роман)",
@@ -308,7 +314,9 @@
     },
     "title": "Би-2",
     "description": "Аудиокассета",
-    "price": 1400
+    "details": "Без кат. №, издательство «М2», 2022-й год",
+    "price": 1400,
+    "done": true
   },
   {
     "link": {
@@ -330,6 +338,9 @@
         "href": "https://ozon.ru/t/oLkW4XE"
       },
       "secondary": {
+        "href": "https://vk.com/market-474070?screen=group&w=product-474070_2392103%2Fquery"
+      },
+      "tertiary": {
         "href": "https://maschinarecords.com/MC-Альянс-На-Заре-1987-2018-Tape-Edition-p191591211",
         "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kHDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyUrNzU3Nzc3Nzc3NzU3Kzc3NystNTc3NzUtLTUtNzc1NTUrNTUtNy01NS8tKys3LTctLf/AABEIACAAIAMBIgACEQEDEQH/xAAYAAADAQEAAAAAAAAAAAAAAAAFBgcDAv/EACkQAAECBQMDAwUAAAAAAAAAAAECAwAEBhESBSExBxMiUWGBFEFikaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQUC/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACEjFBESH/2gAMAwEAAhEDEQA/AJIhF41DcNtIUQ9UekP6i1OBlDD62nElrKwDRXlfIcmybe9/aDDnTpEst5E1rKUFkkrxliqyQz3Tfz2OywL7HBW44ipnQfFk9L7k5U3GSk2ipMdLFTaGls602pt5JU0sS/isYJUCPPg5W+IVqxpB2mpeUfcmg+mYefat28Cktqx33PO/6hZ0XwZorY3M6brDVKfknpPTyx2Xllaw43lcnH3/AAH9gwepWuuXLqZFZUVZFTB8kqvdJsrje3rtzzdBCiI7DkPGj9SDlxju51I19SHBlKguBQKgzYjJAQSPL0A+YE1RWOqVKwhnUvpu2h0uoDTWOKje/wBzsbwuly8cE3gxqaIDbrP/2Q==",
         "name": "Maschina Records Store"
@@ -339,8 +350,9 @@
       "src": "data/images/mc-alliance.webp",
       "alt": "Кассета группы «Альянс»"
     },
-    "title": "Альянс ’87 (MASHMC-023)",
+    "title": "Альянс ’87",
     "description": "Аудиокассета",
+    "details": "Кат. № MASHMC-023, издательство Maschina Records, 2019-й год",
     "price": 1100
   },
   {
@@ -355,6 +367,7 @@
     },
     "title": "Tecsun AN-200 / AN-100",
     "description": "Радиоантенна",
+    "details": "Любой из двух",
     "price": 2600
   },
   {
