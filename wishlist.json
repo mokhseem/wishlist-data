@@ -2,6 +2,43 @@
   {
     "link": {
       "primary": {
+        "href": "https://market.yandex.ru/product--chasy-nastolnye-ikea-tinga/1777146527"
+      }
+    },
+    "image": {
+      "src": "data/images/ikea-alarm.webp",
+      "alt": "Будильник IKEA"
+    },
+    "title": "Tjinga",
+    "description": "Будильник",
+    "price": 400
+  },
+  {
+    "link": {
+      "primary": {
+        "href": "https://ozon.ru/t/dPYgMqr"
+      },
+      "secondary": {
+        "href": "https://vk.com/market-46506716?screen=group&w=product-46506716_8722061%2Fquery"
+      },
+      "tertiary": {
+        "href": "https://dolphinstore.ru/products/kasseta-mekhanicheskii-pes",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAANlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAR2LVAAAAEnRSTlMAS3EGN6S0gNH/8mHC3hkNkx61qKqOAAAAoUlEQVR4Ae2RAQrDIBAE11Ojq9ro/z9bpUcxBvKCDICrA8jt4eUZIyJmuVuRX3D+CBaIHKQRlMxDzwlQGKTq2yTSYZIoLjIPbwESyocJE8sKOPrhz9UHNvUJ6D7vPrFroMdg8471n8hw854CpUey7p60moyDS9z+NyyqT9Z5bdf5Cg2wztcu/VgSivYjKEu/ojOt/eZlPzn0ZXH+aBbPvHwBu1AGaMWbfFQAAAAASUVORK5CYII=",
+        "name": "Dolphin Store"
+      }
+    },
+    "image": {
+      "src": "data/images/mc-mechpies.webp",
+      "alt": "Кассета сайд-проекта «Дельфина»"
+    },
+    "title": "Температура горения бумаги",
+    "description": "Аудиокассета",
+    "details": "Кат. № ДЛФН-20, издательство «М2», 2020-й год",
+    "price": 1200
+  },
+  {
+    "link": {
+      "primary": {
         "href": "https://ozon.ru/t/nBpGbPA"
       },
       "secondary": {
@@ -56,7 +93,7 @@
     "title": "505",
     "description": "Аудиокассета",
     "details": "Кат. № SRPN160MC, издательство Sierpien Records, 2020-й год, тираж 75 копий",
-    "price": 700
+    "price": 1000
   },
   {
     "link": {
@@ -102,7 +139,7 @@
     "title": "Прыг-скок",
     "description": "Аудиокассета (б/у)",
     "details": "Кат. № Hmc-023, издательство «ХОР», 2000-й год",
-    "price": 1000
+    "price": 1300
   },
   {
     "link": {
