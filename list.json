@@ -117,27 +117,6 @@
   {
     "link": {
       "primary": {
-        "href": "https://vk.com/market-114326017?w=product-114326017_5200713%2Fquery"
-      },
-      "secondary": {
-        "href": "https://vk.com/wall-114326017_1964"
-      },
-      "tertiary": {
-        "href": "https://sierpienrecords.bandcamp.com/album/505-2"
-      }
-    },
-    "image": {
-      "src": "data/images/mc-ephoresis.webp",
-      "alt": "Кассета группы «Электрофорез»"
-    },
-    "title": "505",
-    "description": "Аудиокассета",
-    "details": "Кат. № SRPN160MC, издательство Sierpien Records, 2020-й год, тираж 75 копий",
-    "price": 1000
-  },
-  {
-    "link": {
-      "primary": {
         "href": "https://aliexpress.ru/item/1005005785846814.html"
       }
     },
