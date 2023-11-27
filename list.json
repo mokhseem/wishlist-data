@@ -2,16 +2,56 @@
   {
     "link": {
       "primary": {
-        "href": "https://market.yandex.ru/product--chasy-nastolnye-ikea-tinga/1777146527"
+        "href": "https://ozon.ru/t/6MejjBk"
+      },
+      "secondary": {
+        "href": "https://market.yandex.ru/product--naruchnye-chasy-casio-db-36-1/1779693705"
       }
     },
     "image": {
-      "src": "data/images/ikea-alarm.webp",
-      "alt": "Будильник IKEA"
+      "src": "data/images/casio.webp",
+      "alt": "Наручные часы Casio"
     },
-    "title": "IKEA Tjinga",
-    "description": "Будильник",
-    "price": 400
+    "title": "Casio DB-36-1",
+    "description": "Наручные часы",
+    "price": 3000
+  },
+  {
+    "link": {
+      "primary": {
+        "href": "https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT"
+      },
+      "secondary": {
+        "href": "https://apps.apple.com/ru/app/death-stranding-directors-cut/id6449748961"
+      }
+    },
+    "image": {
+      "src": "data/images/app-ds1.webp",
+      "alt": "Слайд с презентации игры Death Stranding"
+    },
+    "title": "Death Stranding",
+    "description": "Цифровая версия игры для PC",
+    "price": 3300
+  },
+  {
+    "link": {
+      "primary": {
+        "href": "https://www.ozon.ru/category/chay-orange-pekoe"
+      },
+      "secondary": {
+        "href": "https://lenta.com/product/chajj-chernyjj-dilmah-cejjlonskijj-kruplist-kup-shrilanka-100g-055413",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACrFBMVEUAAAAAO5UAO5UAO5UAPJYAO5UAPJYAO5UAP58APpsAPJUAO5YAPJYAO5UAO5YDPZQEPpMCPZQAOpcANZ4AMqAANpwANZ0AMqEBPJUANJ4JQJBOYmeFfUediTmciDqBe0pHX2sBPJQAOZlob1jfqRL/vQD/wgD/wAD/wQD/vADWpRdYZ2EAN5sAOpirjzH8twH5tgP4tQP9uAGXhjwAOZitkS/6tgL/uwD/vwD/vgD/ugD7twGWhT1uclX9uAD/uQDorQ23lSq6lyjusAn+uABVZWMPQ4zlrA+Be0kOQo0TRYqThD7SoxoDPZMANJ9aaGB7eE0AMaKUhD5CXG8ANp2ThD/cpxQFPpIURYqvkS6hijf4tQSXhj2xky20lCuZhzuahzv4tgPPoRsAO5cKQY/kqw+Ce0kEPZMAM6Bmbln7twJdaV4AMKN2dlBNYmgaSYbwsQj3tQRZZ2FrcFbgqRKHfkbGnSGPgkGSgz/OoRxtcVUAPZUBPpQGP5LKnx4ANpgAMpkCN5YANpsXSIfNohy8mCcAOJcAX4gAc4AAXIkCRpAAMpwJOpKRhED3tgPxsgcAO5gCPpQANZgAZYUAyF8AvmMAs2gCkHQAWIwAL6AlTIF2d0/EnCLCmyOnjjNvclQcS4QBM5gANJkANJgAjHYAx2AAvWQAxWEBwGICjXUAPpcALqIAOZoAO5UANKADPJQAU4wAcoEAaYQAOpYAOZYAQZMApm0AuWUBqWsETo0BN5YEOJUBZYUAoW8Au2QAy14Ab4IAN5cASJEAp2wAvGQAxGEArGoAR5EAiXgAwmIAhnkAQpMAj3UAmHIAjXYAwWIAw2EAiHgAYIcAmnEAu2UA0VwAdIAAqGwAaIQANpcAT44AbYIAhXkAe30Af3wAXogAM5kAMZkAPpUAP56IBrjhAAAAD3RSTlMAU8X3//7+hv/////9+/7hDLF8AAACnklEQVR4AXWTA7AcWxRFz26/fvy27R/btm2nEBullFKMCrFt27ZtG489c3twcnsYrpn2uqx9QAQPYnodIMwSAplAAJHPBkWuYJc8lLDOLABTg59tf9gAkw4QQxCRq1AYFgcFFFPz2eR4rXUVHlygyS6lYjkpUlCBFMfrPT03E1GyVZ3ypEEKM0NTwkqYDHyak4UIBMmN9Dx2yXaUMIzo9/RP7nzrwgCIlTwl7YaIGLIxdJaCyfQncrIEWZDkpz35NLvgEXkCoEXWp9s/P8mwIDyhIM0NhdKPBwMuSaJChlsU2f6sQAbu3iuJ61/5Hv+2z2Vy44JZGXis5Kd8jl0G2bnl76uq+BrbXJHooQrMM5b4B2sNQVXOFX/ic/y/HxCumxzCLnFDOEVO3/PaZHzyie/HY0U3BANJgT4vc+WnY44vGBUKXf7pWIkNAZEUTKXewVJ7yy1Kp1wyGwOnhVNxVXIIMtsCJwofzKuOdX/Tts444iOn1ryg7C85h3o4XJBaArvvuf6eRynbrZO93E/JIci02q6yM4JPGgHYabA/t/EMJ7FRBqEvRg/DYoszA8+UUHoITsm1giFigkk8CB6zv/C5IDa0px1unHz2mJM9jESMSfQhPaeem4p8guFMCaHfZ4gzoTckw7r/iJ6gxBDc73ckaP/DqGs/Q9Ii2QN4MWQaXvBHwK4xGXPgcfrRmKggA6Ohb3Xg9nd5GcCz5nO+Ah0pfqkHQZDtwIucRtKwEQqKR7/mb29w4U9pt2REI+eF1g5Ko9SRJkCBDBvvrAwUZsRDqwIIGwTu91l+U0gIU3+X/TNJwcccKRzFCnrGmJGtZxplvl81rO8Y77tNsnDipaeQ5jXq1+N3ujhpzGulR+bVXwNK+P3FSwSJwu8r/5cRJk2aHpF3yAAAAABJRU5ErkJggg==",
+        "name": "Лента"
+      }
+    },
+    "image": {
+      "src": "data/images/tea-op.webp",
+      "alt": "Черный крупнолистовой чай"
+    },
+    "title": "Orange Pekoe",
+    "description": "Чай (черный)",
+    "details": "Это не марка чая, и не сорт, а категория листа. Подойдет любой, кроме 🇦🇿",
+    "price": 150
   },
   {
     "link": {
@@ -108,20 +148,6 @@
     "title": "Orange Pi Zero 3",
     "description": "Одноплатный компьютер",
     "price": 3200
-  },
-  {
-    "link": {
-      "primary": {
-        "href": "https://www.vseinstrumenti.ru/product/payalnik-proskit-8pk-s118b-40-00324807-907253"
-      }
-    },
-    "image": {
-      "src": "data/images/blowpipe.webp",
-      "alt": "Паяльник ProsKit"
-    },
-    "title": "ProsKit 8PK-S118B",
-    "description": "Электропаяльник",
-    "price": 850
   },
   {
     "link": {
@@ -332,7 +358,8 @@
     },
     "title": "Silent Hill HD Colection",
     "description": "Игра для PlayStation®3 (б/у)",
-    "price": 2700
+    "price": 2700,
+    "done": true
   },
   {
     "link": {
