@@ -2,23 +2,6 @@
   {
     "link": {
       "primary": {
-        "href": "https://ozon.ru/t/6MejjBk"
-      },
-      "secondary": {
-        "href": "https://market.yandex.ru/product--naruchnye-chasy-casio-db-36-1/1779693705"
-      }
-    },
-    "image": {
-      "src": "data/images/casio.webp",
-      "alt": "Наручные часы Casio"
-    },
-    "title": "Casio DB-36-1",
-    "description": "Наручные часы",
-    "price": 3000
-  },
-  {
-    "link": {
-      "primary": {
         "href": "https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT"
       },
       "secondary": {
@@ -51,7 +34,7 @@
     "title": "Orange Pekoe",
     "description": "Чай (черный)",
     "details": "Это не марка чая, и не сорт, а категория листа. Подойдет любой, кроме 🇦🇿",
-    "price": 150
+    "price": 170
   },
   {
     "link": {
@@ -74,15 +57,13 @@
     "title": "Температура горения бумаги",
     "description": "Аудиокассета",
     "details": "Кат. № ДЛФН-20, издательство «М2», 2020-й год",
-    "price": 1200
+    "price": 1200,
+    "done": true
   },
   {
     "link": {
       "primary": {
-        "href": "https://ozon.ru/t/nBpGbPA"
-      },
-      "secondary": {
-        "href": "https://t.me/tvoekofevino/281"
+        "href": "https://ozon.ru/t/Kd58Pd6"
       }
     },
     "image": {
@@ -92,7 +73,7 @@
     "title": "Stojo Jr. Cup",
     "description": "Складной стакан",
     "details": "250 мл (8 oz), детский, цвет Sage (или Steel)",
-    "price": 1200
+    "price": 1300
   },
   {
     "link": {
@@ -117,7 +98,7 @@
   {
     "link": {
       "primary": {
-        "href": "https://aliexpress.ru/item/1005005785846814.html"
+        "href": "https://aliexpress.ru/item/1005006654055882.html"
       }
     },
     "image": {
@@ -126,7 +107,8 @@
     },
     "title": "Orange Pi Zero 3",
     "description": "Одноплатный компьютер",
-    "price": 3200
+    "details": "Версия с ОЗУ на 4 Гб",
+    "price": 3750
   },
   {
     "link": {
@@ -149,26 +131,6 @@
   {
     "link": {
       "primary": {
-        "href": "https://ozon.ru/t/Q51e67l"
-      },
-      "secondary": {
-        "href": "https://market.yandex.ru/product--elektrobritva-berdsk-8/1772865837"
-      },
-      "tertiary": {
-        "href": "https://www.dns-shop.ru/product/a49356ee44423330/elektrobritva-berdsk-8"
-      }
-    },
-    "image": {
-      "src": "data/images/berdsk.webp",
-      "alt": "Электробритва Бердск-8"
-    },
-    "title": "Бердск-8",
-    "description": "Электробритва",
-    "price": 2000
-  },
-  {
-    "link": {
-      "primary": {
         "href": "https://www.avito.ru/all?q=подставка+для+кассет"
       }
     },
@@ -183,7 +145,7 @@
   {
     "link": {
       "primary": {
-        "href": "https://ozon.ru/t/8M5RbqJ"
+        "href": "https://ozon.ru/t/AVXYqZK"
       },
       "secondary": {
         "href": "https://www.labirint.ru/books/826801"
@@ -212,7 +174,7 @@
     },
     "title": "Caline CP-504 M-Fuzz",
     "description": "Педаль эффектов для эл. гитары",
-    "price": 3600
+    "price": 3300
   },
   {
     "link": {
@@ -230,7 +192,7 @@
       "src": "data/images/konosuba.webp",
       "alt": "Собрание томов ранобэ «Коносуба»"
     },
-    "title": "Да благословят боги этот прекрасный мир!, Т. 1—4",
+    "title": "Да благословят боги этот прекрасный мир!, Т. 1—5",
     "description": "Книга (ранобэ)",
     "price": 800
   },
@@ -257,10 +219,7 @@
   {
     "link": {
       "primary": {
-        "href": "https://ozon.ru/t/9KolpJG"
-      },
-      "secondary": {
-        "href": "https://www.mvideo.ru/products/blu-ray-videodisk-nd-play-logan-400172448"
+        "href": "https://www.ozon.ru/category/hudozhestvennye-filmy-13001/?deny_category_prediction=true&media=29527&text=логан"
       }
     },
     "image": {
@@ -289,7 +248,7 @@
   {
     "link": {
       "primary": {
-        "href": "https://ozon.ru/t/l9D3bpb"
+        "href": "https://ozon.ru/t/bb0Vjzy"
       },
       "secondary": {
         "href": "https://www.labirint.ru/books/915648"
@@ -315,7 +274,7 @@
     },
     "title": "Vim HJKL Arrowkey",
     "description": "Клавиши для мех. клавиатуры",
-    "price": 800
+    "price": 650
   },
   {
     "link": {
@@ -364,21 +323,7 @@
   {
     "link": {
       "primary": {
-        "href": "https://market.yandex.ru/product--velokompiuter-sigma-bc-5-16/364970254"
-      }
-    },
-    "image": {
-      "src": "data/images/sigma.webp",
-      "alt": "Велокомпьютер Sigma"
-    },
-    "title": "Sigma BC 5.16",
-    "description": "Велокомпьютер",
-    "price": 1750
-  },
-  {
-    "link": {
-      "primary": {
-        "href": "https://ozon.ru/t/oLkW4XE"
+        "href": "https://ozon.ru/t/9jd5VP7"
       },
       "secondary": {
         "href": "https://vk.com/market-474070?screen=group&w=product-474070_2392103%2Fquery"
@@ -396,12 +341,12 @@
     "title": "Альянс ’87",
     "description": "Аудиокассета",
     "details": "Кат. № MASHMC-023, издательство Maschina Records, 2019-й год",
-    "price": 1100
+    "price": 1300
   },
   {
     "link": {
       "primary": {
-        "href": "https://aliexpress.ru/item/32808495861.html"
+        "href": "https://aliexpress.ru/item/32802528511.html"
       }
     },
     "image": {
@@ -411,23 +356,6 @@
     "title": "Tecsun AN-200 / AN-100",
     "description": "Радиоантенна",
     "details": "Любой из двух",
-    "price": 2600
-  },
-  {
-    "link": {
-      "primary": {
-        "href": "https://ozon.ru/t/yZqgo79"
-      },
-      "secondary": {
-        "href": "https://ozon.ru/t/nB4awRN"
-      }
-    },
-    "image": {
-      "src": "data/images/maono.webp",
-      "alt": "Микрофон Maono"
-    },
-    "title": "Maono AU-HD300",
-    "description": "Микрофон",
-    "price": 3900
+    "price": 2300
   }
 ]
