@@ -2,6 +2,63 @@
   {
     "link": {
       "primary": {
+        "href": "https://aliexpress.ru/item/4001041087854.html"
+      },
+      "secondary": {
+        "href": "https://aliexpress.ru/item/1005005115047060.html"
+      },
+      "tertiary": {
+        "href": "https://ozon.ru/t/8p6LKLj"
+      }
+    },
+    "image": {
+      "src": "data/images/edc-nextool.webp",
+      "alt": "Складной нож NexTool"
+    },
+    "title": "NexTool KT5026",
+    "description": "Складной нож",
+    "price": ""
+  },
+  {
+    "link": {
+      "primary": {
+        "href": "https://aliexpress.ru/item/1005005125979834.html"
+      },
+      "secondary": {
+        "href": "https://market.yandex.ru/cc/bnhna7Z"
+      },
+      "tertiary": {
+        "href": "https://ozon.ru/t/d0aad6E"
+      }
+    },
+    "image": {
+      "src": "data/images/edc-olight.webp",
+      "alt": "Карманный фонарик Olight"
+    },
+    "title": "Olight i3E EOS",
+    "description": "Фонарик",
+    "price": "1300"
+  },
+  {
+    "link": {
+      "primary": {
+        "href": "https://store.steampowered.com/app/1332010/Stray"
+      },
+      "secondary": {
+        "href": "https://apps.apple.com/ru/app/stray/id6451498949"
+      }
+    },
+    "image": {
+      "src": "data/images/app-stray.webp",
+      "alt": "Промо-изображение игры Stray"
+    },
+    "title": "Stray",
+    "description": "Цифровая версия игры для Mac",
+    "price": 1250
+  },
+  {
+    "link": {
+      "primary": {
         "href": "https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT"
       },
       "secondary": {
@@ -13,7 +70,7 @@
       "alt": "Слайд с презентации игры Death Stranding"
     },
     "title": "Death Stranding",
-    "description": "Цифровая версия игры для PC",
+    "description": "Цифровая версия игры для Mac",
     "price": 3300
   },
   {
@@ -59,21 +116,6 @@
     "details": "Кат. № ДЛФН-20, издательство «М2», 2020-й год",
     "price": 1200,
     "done": true
-  },
-  {
-    "link": {
-      "primary": {
-        "href": "https://ozon.ru/t/Kd58Pd6"
-      }
-    },
-    "image": {
-      "src": "data/images/stojo.webp",
-      "alt": "Складной стакан Stojo"
-    },
-    "title": "Stojo Jr. Cup",
-    "description": "Складной стакан",
-    "details": "250 мл (8 oz), детский, цвет Sage (или Steel)",
-    "price": 1300
   },
   {
     "link": {
@@ -192,7 +234,7 @@
       "src": "data/images/konosuba.webp",
       "alt": "Собрание томов ранобэ «Коносуба»"
     },
-    "title": "Да благословят боги этот прекрасный мир!, Т. 1—5",
+    "title": "Да благословят боги этот прекрасный мир!, Т. 1—6",
     "description": "Книга (ранобэ)",
     "price": 800
   },
